@@ -7,9 +7,7 @@ LearnMap is an intelligent learning path generator. Enter any topic you want to 
 
 This application provides a structured, node-based map where each node represents a sub-topic. You can click on any node to get curated learning resources, including articles, videos, books, and courses, sourced in real-time.
 
-## Live Demo
-
-**Check out the live application:** **[https://learning-map.vercel.app/](https://learning-map.vercel.app/)**
+## Live Demo  **[https://learning-map.vercel.app/](https://learning-map.vercel.app/)**
 
 ---
 
@@ -124,10 +122,12 @@ To run this project on your local machine, you will need to run both the `fronte
     * Google Gemini
     * Serper API
 
- ### Installation
+ 
+### Installation
 
-  Clone the repository:
-    ```bash
+   Clone the repository:
+    Navigate to the backend directory:
+    ```
     git clone https://github.com/prathamesonar/LearningMap.git
     cd LearningMap
     ```
