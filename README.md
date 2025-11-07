@@ -123,17 +123,17 @@ To run this project on your local machine, you will need to run both the `fronte
     * Serper API
 
  
-### Installation
+### 1. Installation
 
-   Clone the repository:
+1.  Clone the repository:
     Navigate to the backend directory:
-    ```
+    ```sh
     git clone https://github.com/prathamesonar/LearningMap.git
     cd LearningMap
     ```
 
 
-### 1. Backend Setup
+### 2. Backend Setup
 
 1.  Navigate to the backend directory:
     ```sh
@@ -156,9 +156,9 @@ To run this project on your local machine, you will need to run both the `fronte
     ```sh
     npm run dev
     ```
-    Your backend will be running at `http://localhost:5000`.
+    backend will be running at `http://localhost:5000`.
 
-### 2. Frontend Setup
+### 3. Frontend Setup
 
 1.  From the root directory, navigate to the frontend directory:
     ```sh
@@ -176,4 +176,4 @@ To run this project on your local machine, you will need to run both the `fronte
     ```sh
     npm run dev
     ```
-    Your frontend will open and run at `http://localhost:5173`.
+    frontend will open and run at `http://localhost:5173`.
