@@ -126,10 +126,8 @@ To run this project on your local machine, you will need to run both the `fronte
 ### 1. Installation
 
 1.  Clone the repository:
-    Navigate to the backend directory:
     ```sh
     git clone https://github.com/prathamesonar/LearningMap.git
-    cd LearningMap
     ```
 
 
