@@ -14,7 +14,6 @@ This application provides a structured, node-based map where each node represent
 ## 📷 Preview
 ![LearningMap Preview](https://github.com/user-attachments/assets/eca532b7-b5c0-4926-8999-e293c5068acd)
 
----
 
 ---
 
