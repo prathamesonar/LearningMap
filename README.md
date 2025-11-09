@@ -1,9 +1,9 @@
 
 -----
 
-# LearningMap 
+# LearniMap 
 
-LearningMap is an intelligent learning path generator. Enter any topic you want to learn, select your skill level (Beginner, Intermediate, or Advanced), and let AI generate a customized, interactive mind map of your learning journey.
+LearniMap is an intelligent learning path generator. Enter any topic you want to learn, select your skill level (Beginner, Intermediate, or Advanced), and let AI generate a customized, interactive mind map of your learning journey.
 
 This application provides a structured, node-based map where each node represents a sub-topic. You can click on any node to get curated learning resources, including articles, videos, books, and courses, sourced in real-time.
 
@@ -12,7 +12,7 @@ This application provides a structured, node-based map where each node represent
 ---
 
 ## 📷 Preview
-![LearningMap Preview](https://github.com/user-attachments/assets/eca532b7-b5c0-4926-8999-e293c5068acd)
+![LearnMap Preview](https://github.com/user-attachments/assets/eca532b7-b5c0-4926-8999-e293c5068acd)
 
 
 ---
